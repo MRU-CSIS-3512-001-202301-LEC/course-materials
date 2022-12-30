@@ -8,7 +8,7 @@ If you've got a GitHub account (you've got a GitHub account, right?), as an MRU 
 
 There's so much free stuff in the Pack that it's stupid.
 
-You'll need the Pack if you want to access the Frontend Masters I talk about below.
+You'll need the Pack if you want to access the Frontend Masters I talk about below. And you also get access to GitHub [Codespaces](https://youtu.be/_W9B7qc9lVc) (for your own use - the Codespaces we're using for your project are separate!).
 
 
 ## Wes Bos[🔗](https://wesbos.com/)
