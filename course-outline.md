@@ -22,7 +22,7 @@ _This course focuses on the concepts and technologies needed to develop web-cent
 - [Course Delivery](#course-delivery)
 - [Course Materials](#course-materials)
 - [Dates & Deadlines](#dates--deadlines)
-- [Course Description](#course-description)
+- [Educational Outcomes](#educational-outcomes)
 - [Assessments](#assessments)
 - [Being Successful in This Course](#being-successful-in-this-course)
 - [Tutorials](#tutorials)
@@ -148,6 +148,38 @@ The dates and deadlines for all things "worth marks" are available on our course
 
 _In a nutshell, you'll have quizzes every 2 weeks or so and the project is due about 12 weeks after the course starts._
 
+## Educational Outcomes
+
+_This is verbatim from previous versions of the course outline...my own nod to copy-pasta. You can tell this has been around for a while - the references to "college" are a giveaway!_ :)
+
+Mount Royal College had identified six college-wide learning outcomes that it believes are critical in order to prepare its graduates for workplace success and a life of continuous learning. Generally speaking, “outcomes” are goals, results, objectives that you should derive from the College, from a program of study, and from a particular course. This course will emphasize the following outcomes:
+
+### Computer Literacy
+
+- Knowledge of basic computer concepts and terminology (lectures, exams).
+- Competence in basic computer operations and hardware (labs).
+
+### Thinking Skills
+
+- Problem-solving (labs, assignments, exams).
+- Analytic thinking appropriate to discipline of information systems (labs).
+
+### Communication
+
+- Convey ideas and information through writing and images (labs, assignments).
+- Use available technology as an aid to effective written, verbal, and visual communication (labs, assignments).
+
+### Course and Discipline Outcomes
+
+- How the internet works.
+- Developing with server-side technology.
+- Developing with Javascript.
+- Using databases in web applications.
+- Common data models used in blogs, forums, and content management systems.
+- Software design in web applications. This includes layered software architectures as well as tiered designs for scalability and reliability.
+- Mechanisms for maintaining state in web applications. This is one the most important topics in the course since it is the principal difference between web application development and non-web application development.
+- Consuming REST web services.
+
 ---
 
 ## Assessments
@@ -159,19 +191,33 @@ _In a nutshell, you'll have quizzes every 2 weeks or so and the project is due a
 | Optional No-risk Quiz       |      ➊ |
 | Final Exam                  |    30% |
 
-➊ _The optional no-risk quiz can be used to replace your lowest mandatory quiz - but only if you decide to take it. If you **do** take it, and the mark you get is **lower** than any of your mandatory quiz marks, then it **won't** be used to calculate your grade - hence the "no-risk" part._  
+➊ _The optional no-risk quiz can be used to replace your lowest mandatory quiz - but only if you decide to take it. If you **do** take it, and the mark you get is **lower** than any of your mandatory quiz marks, then it **won't** be used to calculate your grade - that's why it's "no-risk"._  
 
-### Project (20%)
+### Grading System
+
+All assessments follow the MRU standard conversion as shown below. Final grades in all courses will be represented by a letter grade corresponding to the percentage equivalents. Percentage grades will be calculated to two decimal places and rounded to the nearest whole number (ie. 49.49% = 49%).
+
+| Grade|GPA                          | Percent                              | Description                                                                                                                                                                                      |
+|-------------------------------|-------|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| A+<br>A<br>A-|4.00<br>4.00<br>3.70   | 95–100<br>85-94<br>80-84 | Excellent. Superior performance, showing comprehensive understanding of subject matter.                                                                                                          |
+| B+<br>B<br>B-|3.30<br>3.00<br>2.70| 77-79 <br>73-76 <br>70-72      | Good. Clearly above average performance with knowledge of subject matter generally complete                                                                                                      |
+| C+<br>C<br>C-|2.30<br>2.00<br>1.70 | 67-69 <br>63-66 <br>60-62      | Satisfactory. Basic understanding of subject matter.                                                                                                                                             |
+| D+<br>D |1.30<br>1.00               | 55-59 <br>50-54                  | Marginal performance. Generally insufficient preparation for subsequent courses.                                                                                                                 |
+| F |0.00                             | < 50                                 | Fail. Assigned to students who: <br>a) do not meet the academic requirements of the course, or <br>b) cease to continue in the course, but do not withdraw as per Mount Royal University policy. |
+
+
+
+### The Project (20%)
 
 Problem-solving techniques and skills can only be acquired through practice and through the study of increasingly more difficult problems. The project is meant to provide this practice with the added benefit of producing something you can put in your portfolio.
 
 The project will require weeks of steady work. To keep you on pace, you will be provided with a number of suggested milestones you should try to meet - or beat.
 
-#### Project Feedback
+#### The Project Feedback
 
 I will be looking through the source code you have on GitHub periodically and providing you with feedback. Whether you act on this feedback or not is entirely up to you.
 
-#### Project Late Policy
+#### The Project Late Policy
 
 Since you have 12 weeks to finish the project, there will be no late submissions accepted. Full stop.
 
@@ -212,7 +258,9 @@ There are some habits you can build to increase your chances of being successful
 
 ## Tutorials
 
-_I'm currently tweaking this. Stay tuned._
+Tutorials are where you'll be practicing the skills talked about in lecture, working on exercises that should be completable within your allotted tutorial time.
+
+Tutorials are not themselves worth any marks; however, neglecting to work on tutorial exercises is a sure path to doing poorly on The Project and quizzes and final exam.
 
 ---
 
