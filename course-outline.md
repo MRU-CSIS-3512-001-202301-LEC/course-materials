@@ -223,9 +223,9 @@ Since you have 12 weeks to finish the project, there will be no late submissions
 
 ### Written Quizzes (5 x 10%)
 
-Written quizzes are closed-book assessments that will be held during lecture times and take 40 minutes. (The remaining 40 minutes will be spent going over the quiz.)
+Written quizzes are closed-book assessments that will be held during lecture times and take some portion of the class (likely 30 to 50 minutes). The remaining portion of the class will be used to go over the quiz.
 
-The quizzes will focus on understanding and applying the concepts taught in class. They will primarily be made up of multiple-choice, true-false, and short answer style questions.
+The quizzes will focus on understanding and applying the concepts taught in class. They will primarily be made up of multiple-choice, true-false, short answer style questions, and coding on paper.
 
 Students will not normally be permitted to write a missed written quiz at a later date. If a quiz **is** missed, the weighting of the missed quiz _may_ be shifted to a future quiz - but only at the instructor's discretion, based on the situation.
 
