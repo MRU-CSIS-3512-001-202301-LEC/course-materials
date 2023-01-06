@@ -96,13 +96,13 @@ Students will be expected to regularly monitor the course’s Brightspace site, 
 
 ## Course Materials
 
-There is a recommended textbook as well as lab exercises for this course. 
+There is a **strongly recommended** textbook as well as recommended lab exercises for this course. 
 
 ### Textbook
 
 Connolly and Hoar, _Fundamentals of Web Development, Third Edition_ (Pearson, 2022)
 
-You'll be asked to read sections from the textbook in order to prepare for lectures, so you'll feel more prepared for lectures if you purchase the textbook. 
+You'll be asked to read sections from the textbook in order to prepare for lectures, so you'll feel more prepared for lectures if you purchase the textbook. If you decide _not_ to purchase the text, then it will be up to you to find resources that will replace the content provided there.
 
 The textbook is only offered in a 12-month access eText, is annoying, but that is where the publishing company has taken us.
 
