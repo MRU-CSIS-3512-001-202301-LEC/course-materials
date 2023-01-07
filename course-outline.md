@@ -184,32 +184,32 @@ Mount Royal College had identified six college-wide learning outcomes that it be
 
 ## Assessments
 
-| Assessment Name             | Weight |
-|:----------------------------|-------:|
-| Project                     |    30% |
-| Quiz 01 |    6% |
-| Quiz 02 |    8% |
-| Quiz 03 |    12% |
-| Quiz 04 |    8% |
-| Quiz 05 |    6% |
-| Final Exam                  |    30% |
+| Assessment Name | Weight |
+|:----------------|-------:|
+| Project         |    30% |
+| Quiz 01         |     6% |
+| Quiz 02         |     8% |
+| Quiz 03         |    12% |
+| Quiz 04         |     8% |
+| Quiz 05         |     6% |
+| Final Exam      |    30% |
 
 
 ### Grading System
 
 All assessments follow the MRU standard conversion as shown below. Final grades in all courses will be represented by a letter grade corresponding to the percentage equivalents. Percentage grades will be calculated to two decimal places and rounded to the nearest whole number (ie. 49.49% = 49%).
 
-| Grade|GPA                          | Percent                              | Description                                                                                                                                                                                      |
-|-------------------------------|-------|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| A+<br>A<br>A-|4.00<br>4.00<br>3.70   | 95–100<br>85-94<br>80-84 | Excellent. Superior performance, showing comprehensive understanding of subject matter.                                                                                                          |
-| B+<br>B<br>B-|3.30<br>3.00<br>2.70| 77-79 <br>73-76 <br>70-72      | Good. Clearly above average performance with knowledge of subject matter generally complete                                                                                                      |
-| C+<br>C<br>C-|2.30<br>2.00<br>1.70 | 67-69 <br>63-66 <br>60-62      | Satisfactory. Basic understanding of subject matter.                                                                                                                                             |
-| D+<br>D |1.30<br>1.00               | 55-59 <br>50-54                  | Marginal performance. Generally insufficient preparation for subsequent courses.                                                                                                                 |
-| F |0.00                             | < 50                                 | Fail. Assigned to students who: <br>a) do not meet the academic requirements of the course, or <br>b) cease to continue in the course, but do not withdraw as per Mount Royal University policy. |
+| Grade         | GPA                  | Percent                   | Description |
+|---------------|----------------------|---------------------------|-----------|
+| A+<br>A<br>A- | 4.00<br>4.00<br>3.70 | 95–100<br>85-94<br>80-84  | Excellent. Superior performance, showing comprehensive understanding of subject matter. |
+| B+<br>B<br>B- | 3.30<br>3.00<br>2.70 | 77-79 <br>73-76 <br>70-72 | Good. Clearly above average performance with knowledge of subject matter generally complete |
+| C+<br>C<br>C- | 2.30<br>2.00<br>1.70 | 67-69 <br>63-66 <br>60-62 | Satisfactory. Basic understanding of subject matter. |
+| D+<br>D       | 1.30<br>1.00         | 55-59 <br>50-54           | Marginal performance. Generally insufficient preparation for subsequent courses. |
+| F             | 0.00                 | < 50                      | Fail. Assigned to students who: <br>a) do not meet the academic requirements of the course, or <br>b) cease to continue in the course, but do not withdraw as per Mount Royal University policy. |
 
 
 
-### The Project (20%)
+### The Project (30%)
 
 Problem-solving techniques and skills can only be acquired through practice and through the study of increasingly more difficult problems. The project is meant to provide this practice with the added benefit of producing something you can put in your portfolio.
 
@@ -223,11 +223,13 @@ I will be looking through the source code you have on GitHub periodically and pr
 
 Since you have 12 weeks to finish the project, there will be no late submissions accepted. Full stop.
 
-### Written Quizzes (5 x 10%)
+### Written Quizzes (40%)
 
 Written quizzes are closed-book assessments that will be held during lecture times and take some portion of the class (likely 30 to 50 minutes). The remaining portion of the class will be used to go over the quiz.
 
 The quizzes will focus on understanding and applying the concepts taught in class. They will primarily be made up of multiple-choice, true-false, short answer style questions, and coding on paper.
+
+Quizzes will be cumulative: skills assessed in previous quizzes are fair game in future quizzes as well!
 
 Students will not normally be permitted to write a missed written quiz at a later date. If a quiz **is** missed, the weighting of the missed quiz _may_ be shifted to a future quiz - but only at the instructor's discretion, based on the situation.
 
