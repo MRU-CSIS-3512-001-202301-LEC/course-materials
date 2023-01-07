@@ -186,12 +186,14 @@ Mount Royal College had identified six college-wide learning outcomes that it be
 
 | Assessment Name             | Weight |
 |:----------------------------|-------:|
-| Project                     |    20% |
-| Mandatory Quizzes (5 @ 10%) |    50% |
-| Optional No-risk Quiz       |      ➊ |
+| Project                     |    30% |
+| Quiz 01 |    6% |
+| Quiz 02 |    8% |
+| Quiz 03 |    12% |
+| Quiz 04 |    8% |
+| Quiz 05 |    6% |
 | Final Exam                  |    30% |
 
-➊ _The optional no-risk quiz can be used to replace your lowest mandatory quiz - but only if you decide to take it. If you **do** take it, and the mark you get is **lower** than any of your mandatory quiz marks, then it **won't** be used to calculate your grade - that's why it's "no-risk"._  
 
 ### Grading System
 
