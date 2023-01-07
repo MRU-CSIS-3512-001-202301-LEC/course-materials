@@ -186,7 +186,7 @@ Mount Royal College had identified six college-wide learning outcomes that it be
 
 | Assessment Name | Weight |
 |:----------------|-------:|
-| Project         |    30% |
+| The Project     |    30% |
 | Quiz 01         |     6% |
 | Quiz 02         |     8% |
 | Quiz 03         |    12% |
